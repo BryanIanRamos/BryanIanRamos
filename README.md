@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Ian Ramos</h1>
-<h3 align="center">Aspiring Full-Stack and Game Developer, serious about UI/UX, animations, and Game Development</h3>
+<h3 align="center">Aspiring Full-Stack and Game Developer, serious about UI/UX Development</h3>
 
 - 🌱 I’m currently learning **Computer Vision, Machine Learning, and Arduino Uno for Innovative Projects**
 
