@@ -1,49 +1,56 @@
 <h1 align="center">Hi 👋, I'm Bryan Ian Ramos</h1>
 
 <h3 align="center">
-Aspiring Full-Stack & Game Developer from the Philippines 🇵🇭
+🚀 Aspiring Full-Stack & Game Developer from the Philippines 🇵🇭
 </h3>
 
 <p align="center">
-Passionate about creating modern applications, immersive game experiences, and intuitive UI/UX designs.
-Currently exploring AI, Computer Vision, and Embedded Systems for innovative real-world projects.
+Passionate about building modern applications, immersive games, and intuitive user experiences.
+Currently exploring Artificial Intelligence, Computer Vision, and Embedded Systems to create innovative real-world solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/bryanianramos">
+    <img src="https://komarev.com/ghpvc/?username=bryanianramos&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 About Me
 
 - 🎓 Aspiring **Full-Stack Developer** & **Game Developer**
-- 🎨 Strong interest in **UI/UX Design & Frontend Development**
-- 🤖 Currently learning **Computer Vision, Machine Learning, and Arduino Development**
-- 📱 Building projects using **React Native, Laravel, Flask, Firebase, and PostgreSQL**
-- 🎮 Exploring **Unity Game Development**
-- 🌱 Always improving my skills in **AI-powered applications**
+- 🎨 Focused on **UI/UX Design** and modern frontend experiences
+- 🤖 Currently learning **Machine Learning, Computer Vision, and Arduino Development**
+- 📱 Building mobile and web applications using modern technologies
+- 🎮 Exploring **Unity** for interactive game development
+- 🌱 Continuously improving my backend, AI, and cloud integration skills
 
 ---
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
-🔗 **Visit my portfolio:**  
-[https://bryan-ramos-phi.vercel.app/](https://bryan-ramos-phi.vercel.app/)
+<p align="center">
+  <a href="https://bryan-ramos-phi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Contact Me
+# 📫 Connect With Me
 
-- 📧 Email: **bryanramos3367@gmail.com**
-
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/bryan-ian-ramos" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://facebook.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://instagram.com/bryan_iann" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="mailto:bryanramos3367@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
 
@@ -52,73 +59,45 @@ Currently exploring AI, Computer Vision, and Embedded Systems for innovative rea
 # 🛠️ Tech Stack
 
 ## 💻 Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs" />
 </p>
-
----
 
 ## 🌐 Frontend Development
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" />
+<img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48"/>
 </p>
-
----
 
 ## ⚙️ Backend & Databases
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,firebase,flask,mongodb,mysql,postgresql" />
 </p>
-
----
 
 ## 🤖 AI / Machine Learning
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
 </p>
-
----
 
 ## 🎮 Game Development & Creative Tools
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,blender,arduino" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bryanianramos&show_icons=true&theme=tokyonight" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bryanianramos&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanianramos&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanianramos&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanianramos&layout=compact&theme=tokyonight" alt="languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanianramos&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -126,13 +105,15 @@ Currently exploring AI, Computer Vision, and Embedded Systems for innovative rea
 # 🎯 Current Goals
 
 - 🚀 Build impactful AI-powered mobile applications
-- 🎮 Develop immersive indie games using Unity
-- 📚 Improve backend architecture & cloud deployment skills
-- 🎨 Master UI/UX design principles
+- 🎮 Create immersive indie games using Unity
+- ☁️ Improve cloud deployment & backend architecture skills
+- 🎨 Master modern UI/UX design principles
 - 🤝 Collaborate on innovative open-source projects
 
 ---
 
-<p align="center">
-✨ “Code, Create, Innovate.” ✨
-</p>
+# ⚡ Fun Fact
+
+```diff
++ I enjoy combining AI, Game Development, and UI/UX
++ to create interactive and meaningful digital experiences.
