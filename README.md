@@ -6,7 +6,7 @@
 
 <p align="center">
 Passionate about building modern applications, immersive game experiences, and intuitive UI/UX designs.  
-Currently exploring Artificial Intelligence, Computer Vision, and Embedded Systems for real-world innovation.
+Currently exploring Artificial Intelligence, Computer Vision, and Embedded Systems for innovative real-world projects.
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@ Currently exploring Artificial Intelligence, Computer Vision, and Embedded Syste
 # 🧑‍💻 About Me
 
 - 🎓 Aspiring **Full-Stack Developer** & **Game Developer**
-- 🎨 Focused on **UI/UX Design & Frontend Development**
-- 🤖 Learning **Machine Learning, Computer Vision, and Embedded Systems**
-- 📱 Building apps using **React Native, Laravel, Flask, Firebase, PostgreSQL**
+- 🎨 Strong interest in **UI/UX Design & Frontend Development**
+- 🤖 Currently learning **Computer Vision, Machine Learning, and Arduino Development**
+- 📱 Building projects using **React Native, Laravel, Flask, Firebase, and PostgreSQL**
 - 🎮 Exploring **Unity Game Development**
-- 🌱 Constantly improving in **AI-powered systems**
+- 🌱 Always improving my skills in **AI-powered applications**
 
 ---
 
@@ -38,7 +38,8 @@ Currently exploring Artificial Intelligence, Computer Vision, and Embedded Syste
 
 - 📧 Email: **bryanramos3367@gmail.com**
 
-<p align="center">
+<p align="left" style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+
 <a href="https://linkedin.com/in/bryan-ian-ramos">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -50,6 +51,7 @@ Currently exploring Artificial Intelligence, Computer Vision, and Embedded Syste
 <a href="mailto:bryanramos3367@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+
 </p>
 
 ---
@@ -58,53 +60,53 @@ Currently exploring Artificial Intelligence, Computer Vision, and Embedded Syste
 
 ## 💻 Languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-</div>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+</p>
 
 ## 🌐 Frontend Development
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-</div>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://reactnative.dev/img/header_logo.svg" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
 ## ⚙️ Backend & Databases
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=laravel" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=flask" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</div>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=laravel"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=postgresql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
 
 ## 🤖 AI / Machine Learning
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-</div>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42"/>
+</p>
 
 ## 🎮 Game Development & Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
-  <img src="https://skillicons.dev/icons?i=unity" />
-  <img src="https://skillicons.dev/icons?i=blender" />
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</div>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://skillicons.dev/icons?i=unity"/>
+<img src="https://skillicons.dev/icons?i=blender"/>
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
 
 ---
 
@@ -126,11 +128,11 @@ Currently exploring Artificial Intelligence, Computer Vision, and Embedded Syste
 
 # 🎯 Current Goals
 
-- 🚀 Build impactful AI-powered mobile apps
-- 🎮 Develop immersive indie games using Unity
-- ☁️ Improve cloud deployment & backend systems
-- 🎨 Master modern UI/UX design
-- 🤝 Contribute to open-source projects
+- 🚀 Build impactful AI-powered mobile applications  
+- 🎮 Develop immersive indie games using Unity  
+- ☁️ Improve backend architecture & cloud deployment skills  
+- 🎨 Master UI/UX design principles  
+- 🤝 Collaborate on innovative open-source projects  
 
 ---
 
